@@ -2,7 +2,7 @@
 
 ## Overview
 
-This python pacakge is designed to conduct data analytics on a telecom data. 
+This Python package is designed to conduct data analytics on telecom data. 
 
 The global objective is divided into 4 sub-objectives 
 - User Overview analysis
